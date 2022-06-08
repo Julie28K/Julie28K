@@ -1,10 +1,10 @@
 - 🙋🏽‍♀️ Hi! I'm Julie28k
 - 🏡 I am a stay at home mom of two children.
 - ♥️ I enjoy learning new skills and challenging myself. 
-- 💻 I am currently working on my Front-End Engineering Path in Codecademy.
+- 💻 I am currently taking the Udemy course called, " The Complete 2022 Software Testing Bootcamp" by Tarek Roshdy
 - 📱 You can reach me at juliannekropp4@gmail.com.
 - 👋🏼 Always looking for extra practice, so I think i'm in the right place! lol Send work my way if want to help a newbie out.
-- 💭 I dream to become a successful front-end engineer!
+- 💭 I have dreamt of working in Technology for several years now and look forward to that day!
 
 
 <!---
